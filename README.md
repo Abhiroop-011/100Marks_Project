@@ -1,8 +1,21 @@
-# React + Vite
+# FeelSpace - NASA Space Exploration Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FeelSpace is an interactive space exploration project that utilizes NASA's APIs to bring you fascinating insights about our universe.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🏠 Home Section
+- Displays NASA's Astronomy Picture of the Day (APOD)
+- Includes detailed information about the daily celestial image
+
+### 🚀 Mars Explorer
+- Accesses NASA's Mars Rover Photo API
+- Shows recent images captured by Mars rovers
+- Provides information about Martian exploration
+
+### ☄️ Asteroid Tracker
+- Tracks near-Earth asteroids using NASA's asteroid data
+- Displays asteroids by their distance from Earth
+- Shows important details about each asteroid
+
+This project was created to make space exploration data more accessible and engaging for everyone.
